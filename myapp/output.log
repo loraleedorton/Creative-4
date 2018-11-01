@@ -9,3 +9,10 @@ Running on 4200
 query  { lat: '40.235119', lng: '-111.662193' }
 https://api.sunrise-sunset.org/json?lat=40.235119&lng=-111.662193&date=today
 [0mGET /json?lat=40.235119&lng=-111.662193 [32m200 [0m297.891 ms - -[0m
+[0mGET /index.html [36m304 [0m1.476 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.576 ms - -[0m
+[0mGET /index.html [36m304 [0m0.454 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.366 ms - -[0m
+[0mGET /index.html [32m200 [0m1.329 ms - 1474[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.051 ms - 501[0m
+[0mGET /favicon.ico [33m404 [0m41.229 ms - 1122[0m
